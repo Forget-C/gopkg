@@ -5,3 +5,4 @@
 
 ## pkg/scripts
 一些脚本执行相关的工具
+工具介绍: [pkg/scripts/README.md](pkg/scripts/README.md)
